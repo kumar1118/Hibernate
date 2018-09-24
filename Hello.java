@@ -1,4 +1,4 @@
-package com.lara;
+package com.app1;
 class Hi
 {
 	public Hi()
