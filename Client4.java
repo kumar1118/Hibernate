@@ -1,7 +1,6 @@
 package com.app1;
 
 import java.sql.Statement;
-
 public class Client4 
 {
 	public static void main(String[] args) throws Exception
