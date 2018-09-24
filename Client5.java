@@ -1,8 +1,7 @@
-package com.lara;
+package com.app1;
 
 import java.sql.Statement;
 import java.util.Scanner;
-
 public class Client5
 {
 	public static void main(String[] args) throws Exception

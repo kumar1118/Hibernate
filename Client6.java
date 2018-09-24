@@ -1,10 +1,9 @@
-package com.lara;
+package com.app1;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.nio.Buffer;
 import java.sql.Statement;
-
 public class Client6 {
 
 	public static void main(String[] args) throws Exception
